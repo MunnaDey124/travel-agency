@@ -1,0 +1,10 @@
+.review_container{
+    background-image: url('../../../images/bg.jpg');
+    height: 660px;
+    background-size: cover;
+}
+.review_style{
+    padding-left: 120px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
