@@ -1,4 +1,4 @@
-SiteName: travel Agency
+SiteName: Travel Agency
 
 description:
 A Full Stack Project where any one can book a service for winter
